@@ -1,5 +1,4 @@
-# WheelWorth - Requirements File
-# Base libraries
+pyspark
 streamlit
 pandas
 numpy
@@ -7,11 +6,3 @@ matplotlib
 seaborn
 scikit-learn
 joblib
-
-# PySpark and compatibility packages
-pyspark
-setuptools
-setuptools-distutils
-
-# Compatibility with Python 3.12
-packaging
