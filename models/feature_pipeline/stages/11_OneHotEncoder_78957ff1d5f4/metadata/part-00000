@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoderModel","timestamp":1745165169394,"sparkVersion":"3.5.5","uid":"OneHotEncoder_78957ff1d5f4","paramMap":{"outputCol":"FuelType_vec","inputCol":"FuelType_index"},"defaultParamMap":{"handleInvalid":"error","outputCol":"OneHotEncoder_78957ff1d5f4__output","dropLast":true}}

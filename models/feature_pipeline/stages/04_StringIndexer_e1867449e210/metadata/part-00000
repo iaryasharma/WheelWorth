@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1745165168154,"sparkVersion":"3.5.5","uid":"StringIndexer_e1867449e210","paramMap":{"inputCol":"FuelType","outputCol":"FuelType_index","handleInvalid":"keep"},"defaultParamMap":{"stringOrderType":"frequencyDesc","outputCol":"StringIndexer_e1867449e210__output","handleInvalid":"error"}}
